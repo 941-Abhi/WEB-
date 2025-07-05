@@ -1,0 +1,19 @@
+/* this is font-size concept */
+#vk1 {
+    font-size : 20px;
+}
+#vk2 {
+    font-size : 30px;
+}
+#vk3 {
+    font-size : 40px;
+}
+/* this is line-height concept we can also write none  */
+h4 {
+    line-height : 20px;
+}
+/* this is text-transform like uppercase/capitalize/lowercase  */
+h4 {
+    text-transform : uppercase;
+    text-transform : lowercase;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color : #97abba;
+}
+button {
+    color : black;
+ background-color : deepskyblue;
+ text-align : left;
+}
+h2{
+    color : red;
+}
+p {
+    color : grey;
+    text-align : right;
+}
